@@ -26,14 +26,14 @@
 Получите уникальные названия районов из таблицы с адресами, которые начинаются на “K” и заканчиваются на “a” и не содержат пробелов.
 
 ### Решение 1
-![alt text](https://github.com/alexeymanzhos/SQL1/main/blob/img/like.jpg)
+![alt text](https://github.com/alexeymanzhos/SQL1/blob/main/img/like.jpg)
 
 ### Задание 2
 
 Получите из таблицы платежей за прокат фильмов информацию по платежам, которые выполнялись в промежуток с 15 июня 2005 года по 18 июня 2005 года **включительно** и стоимость которых превышает 10.00.
 
 ### Решение 2
-![alt text](https://github.com/alexeymanzhos/SQL1/main/blob/img/payment_date.png)
+![alt text](https://github.com/alexeymanzhos/SQL1/blob/main/img/payment_date.png)
 
 
 ### Задание 3
@@ -41,7 +41,7 @@
 Получите последние пять аренд фильмов.
 
 ### Решение 3
-![alt text](https://github.com/alexeymanzhos/SQL1/main/blob/img/last5rental.jpg)
+![alt text](https://github.com/alexeymanzhos/SQL1/blob/main/img/last5rental.jpg)
 
 ### Задание 4
 
@@ -52,4 +52,4 @@
 - замените буквы 'll' в именах на 'pp'.
 
 ### Решение 4
-![alt text](https://github.com/alexeymanzhos/SQL1/main/blob/img/llpp.jpg)
+![alt text](https://github.com/alexeymanzhos/SQL1/blob/main/img/llpp.jpg)
